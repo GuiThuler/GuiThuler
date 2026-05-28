@@ -4,11 +4,15 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na UNIFASIG (2025–2027
 
 ---
 
-## 🛠️ Tecnologias que estou aprendendo
+## 🛠️ Tecnologias e Ferramentas que estou aprendendo
 
+### Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Banco de Dados & Controle de Versão
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -37,4 +41,5 @@ Exercícios e projetos do meu curso de JavaScript — do básico ao avançado.
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-vitor-thuler-27a30a257)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) **guilhermevthuler@gmail.com**
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermevthuler@gmail.com)
