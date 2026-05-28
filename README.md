@@ -37,4 +37,4 @@ Exercícios e projetos do meu curso de JavaScript — do básico ao avançado.
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-vitor-thuler-27a30a257)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermevthuler@gmail.com)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) **guilhermevthuler@gmail.com**
