@@ -34,12 +34,6 @@ Exercícios e projetos do meu curso de JavaScript — do básico ao avançado.
 
 ---
 
-## 📊 GitHub Stats
-
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiThuler&show_icons=true&theme=default&hide_border=true)
-
----
-
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-vitor-thuler-27a30a257)
